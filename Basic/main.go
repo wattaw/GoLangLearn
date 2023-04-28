@@ -21,6 +21,7 @@ import (
 // }
 
 func main() {
+
 	var (
 		nama               string
 		alamat             string
