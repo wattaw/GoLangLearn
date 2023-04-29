@@ -7,7 +7,7 @@ import (
 func main() {
 	dataMain := map[string]string{
 		"nama":    "Dino",
-		"address": "Sidoarjo",
+		"address": "BCF",
 	}
 
 	fmt.Println(dataMain)
