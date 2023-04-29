@@ -4,9 +4,10 @@ import (
 	"fmt"
 )
 
-func dataAwal() (string, string) {
-	bungkus := [2]string{"Dino", "Rumah"}
-	return bungkus[0], bungkus[1]
+func dataAwal() (x string, y string) {
+	x = "Dino"
+	y = "Rumah"
+	return
 }
 
 func main() {
